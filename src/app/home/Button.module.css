@@ -1,0 +1,13 @@
+.xyz-btn {
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.xyz-btn:hover {
+    background-color: red;
+    color: black;
+}
