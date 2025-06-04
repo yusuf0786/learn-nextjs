@@ -41,6 +41,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} ${roboto.variable}`}>
         <AppWrapper>
+          <header>This is the Root header</header>
           {children}
         </AppWrapper>
       </body>
